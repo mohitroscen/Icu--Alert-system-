@@ -3,6 +3,8 @@
 A lightweight **ICU monitoring & alert system** built using **ESP32**, featuring a modern mobile-friendly web dashboard, real-time emergency alerts, buzzer notifications, and Telegram integration.
 
 ---
+![Uploading project6.jpg…]()
+
 
 ## 🚀 Features
 
